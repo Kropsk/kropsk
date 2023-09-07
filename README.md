@@ -11,4 +11,4 @@
 - ⚡ Fun fact **Odiava Java 💋**
 <br>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,discord,javascript,java,mysql,css,svelte,figma,photoshop)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=svelte,html,css,js,nodejs,discord,java,mysql,figma,photoshop,linux)](https://skillicons.dev)<br/>
